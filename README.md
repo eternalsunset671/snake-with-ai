@@ -1,2 +1,2 @@
-# snake-with-ml
+# snake-with-ai
 It's my future project.
